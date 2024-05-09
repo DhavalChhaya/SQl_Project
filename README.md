@@ -1,1 +1,1 @@
-# SQl_Project
+# Art_Insight SQL
